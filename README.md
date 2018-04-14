@@ -15,7 +15,4 @@ I followed along with the video translating everything to Python.
 I also included a sample drivery file that contains code for using a neural network to solve xor.
 
 
-
-
-
-
+![xor](https://user-images.githubusercontent.com/7481680/38772348-71249a9e-4002-11e8-98d2-7cfd27b869f0.png)
