@@ -10,9 +10,9 @@ It was inspired by a YouTuber (Daniel Shiffman): https://www.youtube.com/user/sh
 
 He programs in p5.js (JavaScript) and processing (Java).
 
-I followed along with the video translating everything to Python.
+I followed along, translating to Python.
 
-I also included a sample drivery file that contains code for using a neural network to solve xor.
+I also included a sample driver file that contains code for using a neural network to solve xor.
 
 
 ![xor](https://user-images.githubusercontent.com/7481680/38772348-71249a9e-4002-11e8-98d2-7cfd27b869f0.png)
